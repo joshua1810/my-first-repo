@@ -1,0 +1,9 @@
+Name : Joshua
+Course : BCA (Bachelor of Computer Applications)
+
+Things learnt from GitHub
+
+How to create an account
+How to create a new repository
+How to upload a file
+How to edit a file
